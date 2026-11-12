@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Morning Digest</title>
+    <link>https://vgthoppae.github.io/digest-pod-adbf87d6/</link>
+    <atom:link href="https://vgthoppae.github.io/digest-pod-adbf87d6/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A private, auto-generated 15-minute briefing of the day's newsletters. Unlisted.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Nov 2026 08:45:33 -0500</lastBuildDate>
+    <itunes:author>Morning Digest</itunes:author>
+    <itunes:image href="https://vgthoppae.github.io/digest-pod-adbf87d6/cover.png"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Thursday, November 12, 2026</title>
+      <description>Nvidia board reportedly weighs ousting Jensen Huang, a surprise Senate result in Mississippi, a Russia-Ukraine prisoner exchange, and record ocean heat.</description>
+      <itunes:summary>Nvidia board reportedly weighs ousting Jensen Huang, a surprise Senate result in Mississippi, a Russia-Ukraine prisoner exchange, and record ocean heat.</itunes:summary>
+      <enclosure url="https://vgthoppae.github.io/digest-pod-adbf87d6/episodes/podcast-2026-11-12.m4a" length="4270402" type="audio/x-m4a"/>
+      <guid isPermaLink="false">podcast-2026-11-12.m4a</guid>
+      <pubDate>Thu, 12 Nov 2026 07:00:00 -0500</pubDate>
+      <itunes:duration>11:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Wednesday, November 11, 2026</title>
+      <description>Hot October inflation locks in a December rate hike; Nvidia sued over Jensen Huang&#x27;s alleged spy ties; Anthropic&#x27;s trillion-dollar IPO; Hegseth impeachment shelved; voters turn on data centers.</description>
+      <itunes:summary>Hot October inflation locks in a December rate hike; Nvidia sued over Jensen Huang&#x27;s alleged spy ties; Anthropic&#x27;s trillion-dollar IPO; Hegseth impeachment shelved; voters turn on data centers.</itunes:summary>
+      <enclosure url="https://vgthoppae.github.io/digest-pod-adbf87d6/episodes/podcast-2026-11-11.m4a" length="5694494" type="audio/x-m4a"/>
+      <guid isPermaLink="false">podcast-2026-11-11.m4a</guid>
+      <pubDate>Wed, 11 Nov 2026 07:00:00 -0500</pubDate>
+      <itunes:duration>15:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
